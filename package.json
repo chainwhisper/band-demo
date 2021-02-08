@@ -1,0 +1,24 @@
+{
+  "name": "erc20-token-balance",
+  "version": "1.0.0",
+  "description": "This is a demo oroject of Binance Smart Chain",
+  "main": "oracle.js",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawntabrizi/ERC20-Token-Balance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawntabrizi/ERC20-Token-Balance/issues"
+  },
+  "homepage": "https://github.com/shawntabrizi/ERC20-Token-Balance#readme"
+}
